@@ -8,7 +8,7 @@ const ButtonQR = (props: any) => {
       onPress={props.onPress}
       style={{
         // position: "absolute",
-        bottom: 30,
+        bottom: 20,
         backgroundColor: colors.white,
         width: 85,
         height: 85,
